@@ -36,7 +36,7 @@
 
 <div></div>
 <div>
-  <a href="https://t.me/Abdullah_fd">
+  <a href="https://t.me/@sheshan_fd">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 </div>
